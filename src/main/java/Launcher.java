@@ -9,7 +9,7 @@ public class Launcher {
     public static void main(String[] args) {
         final String url = "jdbc:postgresql://localhost:5432/wizard";
         final String user = "admin";
-        final String password = "579cE3091@";
+        final String password = "*****";
 
         MyConnect myConnect = new MyConnect(url, user, password);
 
